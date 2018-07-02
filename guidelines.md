@@ -2,7 +2,7 @@
 
 ## An Example Is
 
-An example demonstrates running an application/framework/workload on
+An example which demonstrates running an application/framework/workload on
 Kubernetes in a meaningful way. It is educational and informative.
 
 Examples are not:
